@@ -19,3 +19,39 @@ I'm Mostafa Mohamed from Egypt. A highly motivated Flutter developer with a Bach
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mostafamohamed555800@gmail.com)](mailto:mostafamohamed555800@gmail.com)
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
+### 🛠 &nbsp;Tech Skills
+
+<p align="left">  
+<a >
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flutter&animation=spin&svgfill=15d8fe">  
+ </a>
+  <a >
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=dart&animation=spin&svgfill=15d8fe">  
+ </a>
+  <a >
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&animation=spin&svgfill=15d8fe">  
+ </a>
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Git&animation=spin&svgfill=15d8fe">  
+ </a>
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=GitHub&animation=spin&svgfill=15d8fe">  
+ </a>
+  
+ 
+
+
+
+
+<!-- <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
+</a> -->
+
+</p>
+
+   <!--
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=563D7C)&nbsp;
+![flutter](https://img.shields.io/badge/-flutter-05122A?style=flat&logo=flutter&logoColor=563D7C)&nbsp;
+![firebase](https://img.shields.io/badge/-firebase-05122A?style=flat&logo=firebase)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![notion](https://img.shields.io/badge/-notion-fff?style=flat-square&logo=notion&logoColor=000)
+-->
